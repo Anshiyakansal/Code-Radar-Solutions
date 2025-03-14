@@ -1,10 +1,10 @@
 // Your code here...
 #include <stdio.h>
 int main (){
-    int a;
+    int a, b;
     printf("");
-    scanf("%d", &a);
-    int result = a<1;
+    scanf("%d %d", &a, &b);
+    int result = a<<b;
     printf("%d", result);
     return 0;
 }
