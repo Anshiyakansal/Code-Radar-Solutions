@@ -5,6 +5,6 @@ int main (){
     printf("");
     scanf("%lf", &a);
     c = a*b;
-    printf("You entered: %lf", c);
+    printf("You entered: %lf", a);
     return 0;
 }
