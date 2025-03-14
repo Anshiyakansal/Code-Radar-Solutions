@@ -5,7 +5,7 @@ int main (){
     float a, area;
     printf("");
     scanf("%f", &a);
-    area = pi*a*a;
+    area = m_pi*a*a;
     printf("Area: %.2f", area);
     return 0;
 }
