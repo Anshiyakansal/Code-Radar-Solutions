@@ -1,6 +1,6 @@
 // Your code here...
 #include <stdio.h>
-#include <ctype.c>
+#include <ctype.h>
 int main(){
     char a;
     printf("");
