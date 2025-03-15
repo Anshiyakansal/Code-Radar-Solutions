@@ -1,5 +1,6 @@
 // Your code here...
 #include <stdio.h>
+#include <ctype.c>
 int main(){
     char a;
     printf("");
