@@ -13,7 +13,7 @@ int main(){
             printf("Vowel");
         } 
         else{
-            printf("Consonant")
+            printf("Consonant");
         }
     }
     else{
