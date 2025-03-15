@@ -9,7 +9,7 @@ int main(){
         printf("Digit");
     }
     else if (ischar(a)){
-        if ((a=="a") || (a=="i") || (a=="o") || (a=="u") || (a=="e") || (a=="A") || (a=="E") || (a=="O") || (a=="U") || (a=="I")){
+        if ((a=='a') || (a=="i") || (a=="o") || (a=="u") || (a=="e") || (a=="A") || (a=="E") || (a=="O") || (a=="U") || (a=="I")){
             printf("Vowel");
         } 
         else{
