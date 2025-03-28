@@ -28,11 +28,5 @@ int main(){
         default:
             printf("Invalid");
     }
-    // if (a==1){
-    //     printf("Same Sign");
-    // }
-    // else {
-    //     printf("Different Sign");
-    // }
     return 0;
 }
