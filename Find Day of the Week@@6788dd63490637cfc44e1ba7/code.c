@@ -5,7 +5,7 @@ int main(){
     scanf("%d", &a);
     switch(a){
         case 1:
-            printf("Monday")
+            printf("Monday");
     }
     // if (a==1){
     //     printf("Same Sign");
