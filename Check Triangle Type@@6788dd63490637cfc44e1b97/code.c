@@ -6,14 +6,14 @@ int main(){
     if (a=b=c){
         printf("Equilateral");
     }
-    // else if ((a!=b) && (a!=c) && (b=c)){
-    //     printf("Isosceles");
-    // }
-    else if ((a!=b) && (a!=c) && (b!=c)){
-        printf("Scalene");
-    }
-    else{
+    else if ((a!=b) && (a!=c) && (b==c)){
         printf("Isosceles");
+    }
+    // else if ((a!=b) && (a!=c) && (b!=c)){
+    //     printf("Scalene");
+    // }
+    else{
+        printf("Scalene");
     }
     return 0;
 }
