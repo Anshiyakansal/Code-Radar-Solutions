@@ -10,3 +10,14 @@ int main() {
 
 
 
+#include <stdio.h>
+#include <string.h>
+int main(){
+    char str[20];
+    int len;
+    printf("enter string\n");
+    gets(str);
+    len = strlen(str);
+    printf("length of string is = %d\n", len);
+    return 0;
+}
